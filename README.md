@@ -6,7 +6,7 @@
 
    
 2. **Install Dependencies**
-   Make sure you have Node.js, Sqlite and npm installed. Run the following command to install the necessary packages:
+   Make sure you have Node.js, Sqlite, Git and npm installed. Run the following command to install the necessary packages:
    npm install express sqlite3 body-parser
 
    
